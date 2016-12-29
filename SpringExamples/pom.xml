@@ -5,7 +5,7 @@
 	<artifactId>SpringExamples</artifactId>
 	<packaging>jar</packaging>
 	<version>1.0-SNAPSHOT</version>
-	<name>SpringExamples</name>
+	<name>SpringExamples Feature1</name>
 	<url>http://maven.apache.org</url>
 	<dependencies>
 		<dependency>
